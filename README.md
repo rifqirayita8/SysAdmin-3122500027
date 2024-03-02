@@ -6,6 +6,6 @@
 
 ## Jawaban
 
-- No 1 : [Click Here](https://github.com/iqbal-rahmatullah/SysAdmin-3122500014/blob/main/tugas2/no1.md)
-- No 2 : [Click Here](https://github.com/iqbal-rahmatullah/SysAdmin-3122500014/blob/main/tugas2/no2%5Bppt%5D.md)
-- No 3 : [Click Here](https://github.com/iqbal-rahmatullah/SysAdmin-3122500014/blob/main/tugas2/no3.md)
+- No 1 : [Click Here](https://github.com/rifqirayita8/SysAdmin-3122500027/blob/main/no1.md)
+- No 2 : [Click Here](https://github.com/rifqirayita8/SysAdmin-3122500027/blob/main/no2%5Bppt%5D.md)
+- No 3 : [Click Here](https://github.com/rifqirayita8/SysAdmin-3122500027/blob/main/no3.md)
