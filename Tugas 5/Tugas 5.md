@@ -1,8 +1,7 @@
 **LAPORAN WORKSHOP ADMINISTRASI JARINGAN**
 
 **  
-**<img src="./media/image32.png"
-="width:4.1364in;height:4.07331in" />
+**<img src="./media/image32.png"/>
 
 **Disusun Oleh:**
 
