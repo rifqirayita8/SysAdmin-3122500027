@@ -1,17 +1,17 @@
 <div align="center">
-**LAPORAN WORKSHOP ADMINISTRASI JARINGAN**
+<h2 style="font-weight:bold">LAPORAN WORKSHOP ADMINISTRASI JARINGAN</h2>
+<br>
 
 ![](https://github.com/rifqirayita8/SysAdmin-3122500027/assets/114125588/33ad546a-b17e-4869-93e6-d2c3632722d9)
 
-**Disusun Oleh:**
+<h3 style="font-weight: bold">Disusun Oleh:</h4>
 
 **Muhammad Iqbal Rahmatullah D3 IT A /3122500014**
 
 **Mohammad Ilham Ramadani D3 IT A /3122500021**
 
 **Rifqi Rayita Dhiyaulhaq D3 IT A /3122500027**
-
-**Dosen Pembimbing :**
+<h3 style="font-weight: bold">Dosen Pembimbing :</h4>
 
 **Dr. Ferry Astika Saputra ST, M.Sc**
 </div>
