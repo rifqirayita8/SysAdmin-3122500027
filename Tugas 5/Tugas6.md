@@ -1,6 +1,6 @@
 **LAPORAN WORKSHOP ADMINISTRASI JARINGAN**
 
-![](https://drive.google.com/file/d/1g57DAWUi2MwQnZF25pb2BB7ItVx4TuN6/view?usp=drive_link)
+![image15](https://github.com/rifqirayita8/SysAdmin-3122500027/assets/114125588/33ad546a-b17e-4869-93e6-d2c3632722d9)
 
 **Disusun Oleh:**
 
