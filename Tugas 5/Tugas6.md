@@ -1,6 +1,6 @@
 **LAPORAN WORKSHOP ADMINISTRASI JARINGAN**
 
-![](./media/image15.png)
+![](https://drive.google.com/file/d/1g57DAWUi2MwQnZF25pb2BB7ItVx4TuN6/view?usp=drive_link)
 
 **Disusun Oleh:**
 
