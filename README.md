@@ -18,4 +18,8 @@ Repository untuk Matkul Workshop Administrasi Jaringan
 
 - Tugas 5 / UTS : [Click here](https://github.com/rifqirayita8/SysAdmin-3122500027/tree/main/Tugas%205)
 
+- Tugas 6 : [Click here](https://github.com/rifqirayita8/SysAdmin-3122500027/tree/main/Tugas%206)
+
+- Tugas 7 : [Click here](https://github.com/rifqirayita8/SysAdmin-3122500027/tree/main/Tugas%207)
+
 ##
